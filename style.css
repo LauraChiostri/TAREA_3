@@ -1,0 +1,25 @@
+body
+{ background-image: url("Logo.jpeg");width= "450" heit= "780">
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position-x: 0 0;
+    background-color: darkslategrey;
+}
+h1{ color: antiquewhite;
+    front font-family: comic sams;
+    text-align: center;
+    }
+
+.table {
+    border: 1px solid black;
+    size-adjust: 7;
+  
+}
+
+.table-wrapper {
+  display: grid;
+    place-content: center;
+
+}
+
+
